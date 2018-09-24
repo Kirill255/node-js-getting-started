@@ -41,4 +41,11 @@ For more information about using Node.js on Heroku, see these Dev Center article
 
 ### My links
 https://heroku-deploy-node-js-start.herokuapp.com
+
 https://git.heroku.com/heroku-deploy-node-js-start.git
+
+### Change remote origin from heroku to my repo
+from `https://github.com/heroku/node-js-getting-started.git` to `https://github.com/Kirill255/node-js-getting-started.git`
+
+command
+`git remote set-url origin https://github.com/Kirill255/node-js-getting-started.git`
